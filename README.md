@@ -7,7 +7,7 @@ This repository contains resources related to the Convolutional Neural Network (
 * `paper`: published paper based on the source code </br>
 * `src`: source code and labels </br>
 
-* # Note
+# Note
 To extend the dataset, data extension methods available in [Keras](https://keras.io/) is suggested.
 
 # Citation
