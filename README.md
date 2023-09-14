@@ -3,8 +3,8 @@ This repository contains resources related to the Convolutional Neural Network (
 [Yeganeh Aghamohammadi](https://github.com/yegane-ai) & [Amin Rezaei](https://github.com/r3zaei) </br>
 
 # Contents
-* `paper`: published paper based on the source code </br>
 * `dataset`: data images needed to run the experiment </br>
+* `paper`: published paper based on the source code </br>
 * `src`: source code and labels </br>
 
 * # Note
