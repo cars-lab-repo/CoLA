@@ -1,6 +1,6 @@
 # CoLA: Convolutional Neural Network Model for Secure Low Overhead Logic Locking Assignment </br>
 This repository contains resources related to the Convolutional Neural Network (CNN) model tailored to the task of logic locking assignment, with an emphasis on minimizing overhead. </br>
-[Yeganeh Aghamohammadi](https://github.com/yeganeh-ai) & [Amin Rezaei](https://github.com/r3zaei) </br>
+[Yeganeh Aghamohammadi](https://github.com/yegane-ai) & [Amin Rezaei](https://github.com/r3zaei) </br>
 
 # Contents
 * `paper`: published paper based on the source code </br>
